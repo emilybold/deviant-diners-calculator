@@ -12,7 +12,7 @@ body {
     align-items: center;
     height: 50vh;
     margin: 0;
-    background-color: #f4f4f4;
+    background-color: transparent;
   }
   
   .calculator {width: 192.5px;
