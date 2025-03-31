@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@500&display=swap');
+@import url("https://i.imgur.com/ofGPXRo.png");
+
+body {
+    font-family:"Gluten", cursive;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #915169;
+    color: #F9F3DB;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    margin: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .calculator {width: 192.5px;
+    height: 326.5px;
+    background-image: url('https://i.imgur.com/ofGPXRo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width:250px;
+    overflow: hidden;
+    font-family: "Gluten", cursive;
+    
+}
+  
+  #display {
+    width: 163.5px;
+    height: 62px;
+    flex-shrink: 0;
+    color: #F9F3DB;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #915169;
+    font-family: Gluten;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    text-align: center;
+    border-radius: 7.5px;
+    border: none;
+    position: relative;
+    top: 39px;
+    left: 12px;
+    overflow: hidden;
+
+    display: grid;
+    align-items: center;
+  }
+  
+  .buttons {
+    position: relative;
+    top: 40px;
+    left:4px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 7.5px;
+    padding: 12.5px;
+  }
+  
+  button {
+    width: 31px;
+    height: 31px;
+    background: #F8DCEA;
+    color: #F9F3DB;
+    border-radius:5px;
+    border: 2.5px solid #905068;
+    font-family: "Gluten", cursive;
+    cursor: pointer;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #915169;
+    font-size: 16px;
+  }
+  
+  button.num:hover {
+    background-color: #ffb3be
+  }
+
+  button:hover {
+    background-color: #ffb3be
+  }
+
+  button.decimal:hover {
+    background-color: #ffb3be
+  }
+  
+  button.equal {
+    position: relative;
+    left: 67.25px;
+    top: -42.5px;
+    height: 70px;
+    background-color:#F9F3DB;
+    color: white;
+  }
+
+  button.equal:hover {
+    background-color:hsl(48, 71%, 72%);
+  }
+  
+  button.clear, button.backspace {
+    background-color: #C2D8ED;
+    color: white;
+  }
+
+  button.clear:hover, button.backspace:hover {
+    background-color:hsl(210, 100%, 75%);
+  }
+  
+  button.operator {
+    background-color:#F9F3DB;
+    color: white;
+  }
+
+  button.operator:hover {
+    background-color:hsl(48, 71%, 72%);
+  }
+  
+  button.num {
+    background-color: #F8DCEA;
+    color: white;
+  }
+  
+  button.decimal {
+    background-color: #F8DCEA;
+    color: white;
+    grid-column: span 2;
+  }
+  
+  button.zero {
+    position: relative;
+    top: -22px;
+    left: 60px;
+    width: 76px;
+  }

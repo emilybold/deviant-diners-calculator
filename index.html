@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deviant Diners Calculator 🧁🍏🪱🍋</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="calculator">
+    <div id="display"></div>
+    <div class="buttons">
+
+      <button class="operator" onclick="appendEmoji('🔥')">🔥</button>
+      <button class="operator" onclick="appendEmoji('❄️')">❄️</button>
+      <button class="operator" onclick="appendEmoji('🥣')">🥣</button>
+      <button class="operator" onclick="appendEmoji('🔪')">🔪</button>
+      
+      <button class="num" onclick="appendEmoji('🍏')">🍏</button>
+      <button class="num" onclick="appendEmoji('🪰')">🪰</button>
+      <button class="num" onclick="appendEmoji('🍝')">🍝</button>
+      <button class="backspace" onclick="backspace()">🪣</button>
+
+      <button class="num" onclick="appendEmoji('🪱')">🪱</button>
+      <button class="num" onclick="appendEmoji('🍋')">🍋</button>
+      <button class="num" onclick="appendEmoji('🦴')">🦴</button>
+      <button class="clear" onclick="clearDisplay()">🚽</button>
+
+      <button class="num" onclick="appendEmoji('💩')">💩</button>
+      <button class="num" onclick="appendEmoji('🍕')">🍕</button>
+      <button class="num" onclick="appendEmoji('🧁')">🧁</button>
+   
+
+
+      <button class="decimal" onclick="appendEmoji('🦷')">🦷</button>
+
+    </div>
+    <button class="zero" onclick="appendEmoji('🍪')">🍪🍪🍪</button>
+    <button class="equal" onclick="calculate()">🍽️</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
