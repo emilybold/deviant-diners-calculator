@@ -60,6 +60,7 @@ function convertToEmoji(result) {
 
     const customEmojis = {
 
+        '-15': '🥓🍼',
         '-11': '🥥🥥🍄',
       
         '-9': 'radish cubes',
@@ -98,12 +99,12 @@ function convertToEmoji(result) {
         '31': 'jelly meat',
         '31.5': '🧅🦞🥔',
         '32': '🌶️🫧🍍',
-        '33': '🧻🧻🥓🫒',
+        '33': 'soiled nougat',
         '34': '🍉🍉🍅',
         '35': '🍔🖇️',
         '36': 'rice trifle',
         '37': '🫐🍈🍒',
-        '38': '🎂💡🎾',
+        '38': 'plum pesto',
         '39': '🦪🥟🦪🥟',
 
         '40': '🍥🎲',
@@ -114,7 +115,7 @@ function convertToEmoji(result) {
         '44.9': '🪨🍊',
         '45': 'breadrice',
         '45.1': '🫘🍠🫚',
-        '46': '🥟🔩',
+        '46': 'erotica pancakes',
         '47': '🫚🫚🫚🫚',
         '48': '🧁💣',
         '49': '🍌🍌🚬🍌',
@@ -129,7 +130,7 @@ function convertToEmoji(result) {
         '55.1': '🚬🚬🍲',
         '56': '🍹🐡',
         '57': '🥒',
-        '58': '🐝🍫',
+        '58': 'sloppy goujons',
         '59': '🍞🍞',
 
         '60': '🍕🧀🧀',
@@ -153,6 +154,7 @@ function convertToEmoji(result) {
         '75': '🪣🫑',
         '75.2': '🍫🫜🫜',
         '76': 'hedgehog surprise',
+        '76.45': '🐝🍫',
         '77': '🥞🕷️🕷️',
         '78': '🍋‍🟩🏴‍☠️🍋‍🟩',
         '79': '🍌🌾🍌🍌',
@@ -179,14 +181,14 @@ function convertToEmoji(result) {
         '95.2': 'jellied lobster',
         '96': '🥖🦞',
         '97': '🦨🍪🦨',
-        '98': '🍯🧲',
+        '98': 'mucus dumplings',
         '99': '🥗🍦🍦',
 
         '100': '🥦',
         '101.6': '🫑🍯',
         '102': 'steamed toast',
         '103': '💊🥫',
-        '105': '🍅🧀🍳',
+        '105': 'bbq bran flakes',
         '106': 'pickled daffodils',
         '107': '🥘🥘🧽',
         '108': '🥘🥓🍅',
@@ -207,12 +209,12 @@ function convertToEmoji(result) {
         '120': '🧀🧈🍪',
         '121': 'freeze-dried cacti',
         '121.5': '🧱🧱🍐',
-        '122': '🥓🍼',
+        '122': 'hoover pasta bake',
         '123': '🍾🍌',
         '123.5': '🗞️🍌🍄',
         '124': 'pink avocado',
         '125': '🧆🦎',
-        '126': '🥛🌾🥄',
+        '126': 'packet of frazzles',
         '127': '🦐🍚🍤',
         '128': 'throat loaf',
         '129': '🧈🌼🍷',
@@ -233,7 +235,7 @@ function convertToEmoji(result) {
         '142': '🍪🥛🧋',
         '143': '🫒🌶️🥒',
         '144': 'spectral butter',
-        '145': '🍯🍚',
+        '145': 'explosive bran apples',
         '146': '🥫🥒',
         '147': 'creamed squid',
         '148': '🧈🥜🦶',
@@ -259,7 +261,7 @@ function convertToEmoji(result) {
         '166': '🌰🧂🍹',
         '167': 'fugal potatoes',
         '168': '🍕🥚',
-        '169': '🥩🥞',
+        '169': 'calcified pancakes',
 
         '170': 'chicken sponge',
         '171': '🫜🎂🐁',
@@ -280,7 +282,7 @@ function convertToEmoji(result) {
         '185': 'codine noodles',
         '186': '🥔🥪🍏',
         '187': 'sniffer dogs',
-        '188': '🥔🥞',
+        '188': 'unfortunate pears',
         '189': '🐿️🥧',
 
         '190': '🥬🦐🍪',
@@ -288,21 +290,32 @@ function convertToEmoji(result) {
         '192': 'bone balls',
         '193': '🍫🍕🍫🦟',
         '194': '🦂🥘',
-        '195': '💊🍑🍑',
+        '195': 'salmon keyhole',
         '196': '🍦🍡',
         '197': '🦗🍙🍙',
         '198': '🍓🥛🎾',
         '199': 'nipple cream',
 
-        
         '200': '💡👅🍝',
         '201': '🌰🐡',
+        '202': 'Trash Badger Crumble',
+        '203': '🎂💡🎾',
         '206': 'finger juice',
+        '207': '🥛🌾🥄',
         '209.9': '🍭🪨',
         '209.93': '🌯🤡💩',
 
+        '230': 'slippery biscuits',
+        '231': 'muted swede'
+        '232': 'donut clots',
+        '233': '💊🍑🍑',
+        '234': '🥩🥞',
+        '235': '🥟🔩',
+        '236': '🍯🧲',
+
         '250': '🥜🥜🥜🥜',
         '251': 'cheese assault',
+        '252': '🥔🥞',
 
         '306': '🥩🦴🥯',
         '305': 'breaded tortoise breasts',
@@ -311,20 +324,33 @@ function convertToEmoji(result) {
         '400': '🥙🥗',
         '401': 'buttered turds',
         '404': '🛞🍉',
+        '405': 'modern cabbage splat',
 
         '507': '☕️☕️☕️',
         '507.1': '🍺🎣',
         '508': 'cow froth',
+
+        '582': 'Yummy Petrol Slurp',
+        '583': '🍯🍚',
 
         '607': '🧤🍜🫔',
         '608': 'wood onions',
         '609': '🧴🧋',
 
         '640': 'mayonaise popcorn',
+        '641': '🧻🧻🥓🫒',
+
+        '650': '🍅🧀🍳',
+        '651': 'rusty nail bake',
 
         '751': 'crowded ribs',
+        '756': 'petrified halloumi',
+
+        '801': 'armoured carrots',
+        '809': 'fruit meat trousers',
 
         '832': 'rendered pineapple',
+        '834': 'difficult mushrooms',
     };
 
     // If the result matches a custom number, return the specific emoji
