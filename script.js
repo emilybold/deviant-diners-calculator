@@ -135,7 +135,7 @@ function convertToEmoji(result) {
         '64': '🍝🍜🍫',
         '65': '🧈🥖🦎',
         '66': '🥥🫛🍳🍳',
-        '67': 'melancholic bean sprouts',
+        '67': 'melancholic beansprouts',
         '68': '🌭',
         '69': '🍑👅💦',
 
