@@ -145,7 +145,7 @@ function convertToEmoji(result) {
         '69': '🍑👅💦',
 
         '70': '🍆🍇',
-        '71': 'malignant bagels,
+        '71': 'malignant bagels',
         '72': '🧂💿',
         '73': '🥝🍅',
         '74': 'tongue cheese',
