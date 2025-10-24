@@ -13,7 +13,7 @@ body {
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #915169;
     color: #F9F3DB;
-    font-size: 12px;
+    font-size: 16px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,7 +40,7 @@ body {
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #915169;
     font-family: Gluten;
-    font-size: 25px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 200;
     line-height: normal;
