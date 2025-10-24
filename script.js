@@ -1,5 +1,11 @@
-let display = document.getElementById('display');
+let display;
 let currentInput = '';
+
+// Ensure the display element exists before we try to use it
+document.addEventListener('DOMContentLoaded', () => {
+  display = document.getElementById('display');
+  updateDisplay();
+});
 
 // Function to append the emoji to the current input and update the display
 function appendEmoji(emoji) {
@@ -18,6 +24,7 @@ function appendEmoji(emoji) {
 }
 
 function updateDisplay() {
+  if (!display) return;
   display.innerHTML = currentInput || '';
 }
 
@@ -28,7 +35,10 @@ function clearDisplay() {
 
 function backspace() {
   if (currentInput.length > 0) {
-    currentInput = currentInput.slice(0, -2); 
+    // Use Array.from to correctly handle emoji/grapheme clusters
+    const chars = Array.from(currentInput);
+    chars.pop();
+    currentInput = chars.join('');
     updateDisplay();
   }
 }
@@ -140,7 +150,7 @@ function convertToEmoji(result) {
         '76': '🥬🦂🍿',
         '77': '🥞🕷️🕷️',
         '78': '🍋‍🟩🏴‍☠️🍋‍🟩',
-        '79': '🍌🌾🍌🍌'
+        '79': '🍌🌾🍌🍌',
 
         '80': '🥄🧊🧽',
         '80.5': '🍤🍤🥫🥫',
@@ -241,16 +251,13 @@ function calculate() {
       .replace(/🔪/g, '/')
       .replace(/🦷/g, '.');
 
-      
-
-  
     let result = eval(expression);
 
     // Convert the result to emoji format
     currentInput = convertToEmoji(result);
     updateDisplay();
   } catch (error) {
-    display.innerText = '🤮🤮🤮';
+    if (display) display.innerText = '🤮🤮🤮';
     currentInput = '';
   }
 }
