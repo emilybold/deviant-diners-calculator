@@ -306,7 +306,7 @@ function convertToEmoji(result) {
         '209.93': '🌯🤡💩',
 
         '230': 'slippery biscuits',
-        '231': 'muted swede'
+        '231': 'muted swede',
         '232': 'donut clots',
         '233': '💊🍑🍑',
         '234': '🥩🥞',
