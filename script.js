@@ -396,7 +396,7 @@ function convertToEmoji(result) {
         '582': 'Yummy Petrol Slurp',
         '583': '🍯🍚',
 
-        '590', 'clumped brisket',
+        '590': 'clumped brisket',
       
         '607': '🧤🍜🫔',
         '608': 'wood onions',
