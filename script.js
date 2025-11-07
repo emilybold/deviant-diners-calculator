@@ -298,8 +298,10 @@ function convertToEmoji(result) {
 
         '200': '💡👅🍝',
         '201': '🌰🐡',
-        '202': 'Trash Badger Crumble',
+        '202': 'trash badger crumble',
         '203': '🎂💡🎾',
+        '204': 'asparagus nodules',
+        '205': 'congested meatballs',
         '206': 'finger juice',
         '207': '🥛🌾🥄',
         '209.9': '🍭🪨',
@@ -312,30 +314,99 @@ function convertToEmoji(result) {
         '234': '🥩🥞',
         '235': '🥟🔩',
         '236': '🍯🧲',
+        '237': 'turbulent grease sticks',
+
+        '240': '🫔🩹',
 
         '250': '🥜🥜🥜🥜',
         '251': 'cheese assault',
         '252': '🥔🥞',
 
+        '260': 'clockwork jam',
+
+        '270': 'sautéed sand',
+
+        '280': 'potato embrace',
+
+        '290': 'prepared teapots',
+
         '306': '🥩🦴🥯',
         '305': 'breaded tortoise breasts',
         '309': '🧅🐢',
+
+        '310': 'corrugated tahini',
+
+        '320': 'shrimp erosion',
+
+        '330': 'stone-baked dispair',
+
+        '340': 'sharps bin broth',
+
+        '350': 'linguine but not',
+
+        '360': 'rotated cactus chips',
+
+        '370': 'incontinental breakfast',
+
+        '380': 'funeral platter',
+
+        '390': 'generative cod',
 
         '400': '🥙🥗',
         '401': 'buttered turds',
         '404': '🛞🍉',
         '405': 'modern cabbage splat',
 
+        '410': 'fish feet',
+
+        '420': 'recreational gammon',
+
+        '430': 'societal pastie',
+
+        '440': 'cheesemonger fingers',
+
+        '450': 'microwaved USB',
+
+        '460': 'bacterially sweet parsnips',
+
+        '470': 'poached envelopes',
+
+        '480': 'shredded crab lungs',
+
+        '490': 'isolation purée',
+      
         '507': '☕️☕️☕️',
         '507.1': '🍺🎣',
         '508': 'cow froth',
 
+        '510': 'fermented sertraline',
+
+        '520': 'binaural lamb chops',
+
+        '530': 'candied tumours',
+
+        '540': 'tonsil casserole',
+
+        '550': 'oven-baked carcinoma',
+
+        '560': 'aphex frittata',
+
+        '570': 'almond solfeggietto',
+
         '582': 'Yummy Petrol Slurp',
         '583': '🍯🍚',
 
+        '590', 'clumped brisket',
+      
         '607': '🧤🍜🫔',
         '608': 'wood onions',
         '609': '🧴🧋',
+
+        '610': 'slow-roasted briefcase',
+
+        '620': 'phroylactic custard',
+
+        '630': 'marinated cervix',
 
         '640': 'mayonaise popcorn',
         '641': '🧻🧻🥓🫒',
@@ -343,14 +414,41 @@ function convertToEmoji(result) {
         '650': '🍅🧀🍳',
         '651': 'rusty nail bake',
 
+        '660': 'buck-wheat aneurysm',
+
+        '670': 'abdominal clam chowder',
+
+        '680': 'clotted styrofoam',
+
+        '690': 'toothy paté',
+
+        '700': 'lemon and gingivitis',
+
+        '710': 'stem-cells on the rocks',
+
+        '720': 'chicken transplants',
+
+        '730': 'air-fried astroturf',
+
+        '740': 'itchy strogonoff',
+
         '751': 'crowded ribs',
         '756': 'petrified halloumi',
 
         '801': 'armoured carrots',
+        '802': 'mustard cookies',
         '809': 'fruit meat trousers',
 
         '832': 'rendered pineapple',
         '834': 'difficult mushrooms',
+        '835': 'fizzy cheese',
+        '836': 'distilled parmesan',
+        '837': 'frosted broccoli cheeks',
+
+        '901': 'garlicky toffee',
+        '902': 'ill concieved hotpot',
+        '903': 'faxed paninis',
+        '904': 'waste disposal hash',
     };
 
     // If the result matches a custom number, return the specific emoji
