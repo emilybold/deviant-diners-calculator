@@ -81,7 +81,7 @@ function convertToEmoji(result) {
         '17': '🍩🐿️',
         '17.1': '🥐🍕🍋',
         '18': '🥯',
-        '19': '🤡🍰🧃',
+        '19': 'interrupted hummus',
       
         '20': 'stuffed gall bladder',
         '21': '🥕🫒',
@@ -237,7 +237,7 @@ function convertToEmoji(result) {
 
         '140': 'fish tea',
         '141': '🍣🧼🍣',
-        '142': '🍪🥛🧋',
+        '142': 'distilled fructose',
         '143': '🫒🌶️🥒',
         '144': 'spectral butter',
         '145': 'explosive bran apples',
@@ -386,13 +386,23 @@ function convertToEmoji(result) {
         '296': 'peach wastage',
         '297': '🦞',
         '298': '🥥🫛🍳🍳',
+        '299': '🍪🥛🧋',
 
+        '300': 'liberated artichokes',
+        '301': 'hazlehut intentions',
+        '302': 'strawberry calculations',
         '306': '🥩🦴🥯',
         '305': 'breaded tortoise breasts',
+        '306': '🤡🍰🧃',
+        '307': 'dairy-free calpol',
         '309': '🧅🐢',
 
         '310': 'corrugated tahini',
         '311': '🥬🦐🍪',
+        '312': 'avian suggestion',
+        '313': 'gamey whisper',
+        '314': 'drowsy kale corn',
+        '315': 'stiff grapes',
 
         '320': 'shrimp erosion',
         '321': '🥄🎲🍤',
