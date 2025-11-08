@@ -95,7 +95,7 @@ function convertToEmoji(result) {
         '28': '☕️🌰',
         '29': '🍈🥫👂',
 
-        '30': '🐌🧄🥗',
+        '30': 'lychee dangle',
         '31': 'jelly meat',
         '31.5': '🧅🦞🥔',
         '32': 'nugget quartet',
@@ -105,7 +105,7 @@ function convertToEmoji(result) {
         '36': 'rice trifle',
         '37': '🫐🍈🍒',
         '38': 'plum pesto',
-        '39': '🦪🥟🦪🥟',
+        '39': 'pinstriped mackerel',
 
         '40': '🍥🎲',
         '41': 'flushed peppercorns',
@@ -124,12 +124,12 @@ function convertToEmoji(result) {
         '51': 'brick pudding',
         '52': '🥨🦴🥪',
         '52.8': '🥤🕯️',
-        '53': '🍭🕯️',
+        '53': 'apricot medallions',
         '54': '🌽🪵',
         '55': 'cake bones',
         '55.1': '🚬🚬🍲',
         '56': '🍹🐡',
-        '57': '🥒',
+        '57': 'drain slop',
         '58': 'sloppy goujons',
         '59': '🍞🍞',
 
@@ -220,7 +220,7 @@ function convertToEmoji(result) {
         '124': 'pink avocado',
         '125': '🧆🦎',
         '126': 'packet of frazzles',
-        '127': '🦐🍚🍤',
+        '127': 'dogged apples',
         '128': 'throat loaf',
         '129': '🧈🌼🍷',
 
@@ -282,7 +282,7 @@ function convertToEmoji(result) {
         '180': '🍒🐀🥛',
         '181': 'foamed tofu',
         '182': '🧃🥜',
-        '183': '🥄🎲🍤',
+        '183': 'recoiled bean sprouts',
         '184': '🍠🍠🍠🍠🍠',
         '185': 'codine noodles',
         '186': '🥔🥪🍏',
@@ -290,7 +290,7 @@ function convertToEmoji(result) {
         '188': 'unfortunate pears',
         '189': '🐿️🥧',
 
-        '190': '🥬🦐🍪',
+        '190': 'almond negotiation',
         '191': 'sweaty ostrich',
         '192': 'bone balls',
         '193': '🍫🍕🍫🦟',
@@ -331,12 +331,27 @@ function convertToEmoji(result) {
         '244': 'the idea of a radish',
         '245': 'fatberg gravy',
         '246': '🌶️🫧🍍',
+        '247': '🍭🕯️',
+        '248': '🐌🧄🥗',
+        '249': 'bile daiquiri',
 
         '250': '🥜🥜🥜🥜',
         '251': 'cheese assault',
         '252': '🥔🥞',
+        '253': 'aromatic doritos',
+        '254': 'lipstick tomatoes',
+        '255': '🦪🥟🦪🥟',
+        '256': 'turpentine martini',
+        '257': '🦐🍚🍤',
+        '258': 'chickpea snogger',
+        '259': 'snotty tissue filo',
 
         '260': 'clockwork jam',
+        '261': '🥒',
+        '262': '8-bit bananas',
+        '263': 'faxed potatoes',
+        '264': 're-heated tax discs',
+        '265': 'sticky clams',
 
         '270': 'sautéed sand',
 
@@ -349,10 +364,13 @@ function convertToEmoji(result) {
         '309': '🧅🐢',
 
         '310': 'corrugated tahini',
+        '311': '🥬🦐🍪',
 
         '320': 'shrimp erosion',
+        '321': '🥄🎲🍤',
 
         '330': 'stone-baked dispair',
+        '331': 'horse crab swirls',
 
         '340': 'sharps bin broth',
 
