@@ -173,6 +173,7 @@ function convertToEmoji(result) {
         '88': 'pulped cod', 
         '89': '🍛',
 
+        '90': 'cement mousse',
         '91': '🍇',
         '92': '🫒🫒🫔',
         '93': 'sugared oysters',
