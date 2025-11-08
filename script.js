@@ -185,16 +185,19 @@ function convertToEmoji(result) {
         '99': '🥗🍦🍦',
 
         '100': '🥦',
+        '101': '🍼🥫',
         '101.6': '🫑🍯',
         '102': 'steamed toast',
         '103': '💊🥫',
+        '104': 'pineapple beer',
         '105': 'bbq bran flakes',
         '106': 'pickled daffodils',
         '107': '🥘🥘🧽',
         '108': '🥘🥓🍅',
         '109': 'beef-fed grass steaks',
-        '110': '🧶🧶🍍',
 
+      
+        '110': '🧶🧶🍍',
         '111': '🍜',
         '112': '🍳🫑🥫',
         '113': 'beef kisses',
@@ -204,6 +207,7 @@ function convertToEmoji(result) {
         '116': '📌🥃🍸',
         '117': 'contrapuntal waffles',
         '118': '🍭🍋🧃',
+        '119': 'glovebox tenderloins',
         '119.5': '🌯🧶',
 
         '120': '🧀🧈🍪',
@@ -304,6 +308,7 @@ function convertToEmoji(result) {
         '205': 'congested meatballs',
         '206': 'finger juice',
         '207': '🥛🌾🥄',
+        '208': 'sodden crabcakes',
         '209.9': '🍭🪨',
         '209.93': '🌯🤡💩',
 
@@ -315,8 +320,14 @@ function convertToEmoji(result) {
         '235': '🥟🔩',
         '236': '🍯🧲',
         '237': 'turbulent grease sticks',
+        '238': 'prawn negotiation',
+        '239': 'bucket gunk pavolva',
 
         '240': '🫔🩹',
+        '241': '🫚🍳',
+        '242': 'carpet hot slice',
+        '243': 'baked bean threat',
+        '244': 'the idea of a radish',
 
         '250': '🥜🥜🥜🥜',
         '251': 'cheese assault',
@@ -365,31 +376,36 @@ function convertToEmoji(result) {
 
         '440': 'cheesemonger fingers',
 
-        '450': 'microwaved USB',
+        '450': 'microwaved USB dongle',
 
-        '460': 'bacterially sweet parsnips',
+        '460': 'sweetened bacteria',
 
         '470': 'poached envelopes',
+        '471': 'sublimated ricecakes',
 
         '480': 'shredded crab lungs',
 
         '490': 'isolation purée',
+        '491': 'honey-roasted breath tube',
       
         '507': '☕️☕️☕️',
         '507.1': '🍺🎣',
         '508': 'cow froth',
 
         '510': 'fermented sertraline',
+        '511': 'arpeggiated calimari',
 
         '520': 'binaural lamb chops',
 
         '530': 'candied tumours',
 
         '540': 'tonsil casserole',
+        '545': 'steel pan-fried bongos',
 
         '550': 'oven-baked carcinoma',
 
         '560': 'aphex frittata',
+        '569': 'grotty omelette',
 
         '570': 'almond solfeggietto',
 
@@ -435,9 +451,21 @@ function convertToEmoji(result) {
         '751': 'crowded ribs',
         '756': 'petrified halloumi',
 
+        '760': 'sprout clippings',
+
+        '770': 'gelatinous cuboid',
+
+        '780': 'arpegiatted wakame',
+
+        '790': 'industrial chickpeas',
+      
         '801': 'armoured carrots',
         '802': 'mustard cookies',
         '809': 'fruit meat trousers',
+
+        '810': 'salted floppy discs',
+
+        '820': 'creamed circuit board',
 
         '832': 'rendered pineapple',
         '834': 'difficult mushrooms',
@@ -445,10 +473,43 @@ function convertToEmoji(result) {
         '836': 'distilled parmesan',
         '837': 'frosted broccoli cheeks',
 
+        '840': 'cable tie assortment',
+
+        '850': 'vegetable clogs',
+
+        '860': 'flambéd piano keys',
+
+        '870': 'feathered cronuts',
+
+        '880': 'self-inflicted chicken',
+
+        '890': 'skunk jerky',
+      
         '901': 'garlicky toffee',
         '902': 'ill concieved hotpot',
         '903': 'faxed paninis',
         '904': 'waste disposal hash',
+
+        '910': 'red onion boba',
+        '920': 'almost turnips',
+
+        '920': 'a ham cabinet',
+
+        '930': 'ash tray bake',
+
+        '940': 'polyp couscous',
+
+        '950': 'beef gussets',
+
+        '960': 'one pot crisis',
+
+        '970': 'synthetic borscht',
+
+        '980': 'preserved cotton buds',
+
+        '990': 'piss spritz',
+
+        '1000': 'tapioca struggle',
     };
 
     // If the result matches a custom number, return the specific emoji
