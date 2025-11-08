@@ -69,21 +69,21 @@ function convertToEmoji(result) {
         '-1': '🧠🫛',
       
         '10': '🍔',
-        '11': '🫟🍣',
+        '11': 'pork stones',
         '11.1': '🫜',
         '12': 'ant syrup',
         '13': '🍎🍄',
         '13.12': '🧈🥖🦎',
         '14': '🥮',
         '15': 'spatchcock watermelon',
-        '15.6': 'pork stones',
+        '15.6': '🫟🍣',
         '16': 'olive stuffed eggs',
         '17': '🍩🐿️',
         '17.1': '🥐🍕🍋',
         '18': '🥯',
         '19': '🤡🍰🧃',
       
-        '20': '🥧🪑',
+        '20': 'stuffed gall bladder',
         '21': '🥕🫒',
         '22': 'lemon fibre',
         '23': '🧵🥑',
@@ -98,7 +98,7 @@ function convertToEmoji(result) {
         '30': '🐌🧄🥗',
         '31': 'jelly meat',
         '31.5': '🧅🦞🥔',
-        '32': '🌶️🫧🍍',
+        '32': 'nugget quartet',
         '33': 'soiled nougat',
         '34': '🍉🍉🍅',
         '35': '🍔🖇️',
@@ -329,6 +329,8 @@ function convertToEmoji(result) {
         '242': 'carpet hot slice',
         '243': 'baked bean threat',
         '244': 'the idea of a radish',
+        '245': 'fatberg gravy',
+        '246': '🌶️🫧🍍',
 
         '250': '🥜🥜🥜🥜',
         '251': 'cheese assault',
@@ -370,6 +372,7 @@ function convertToEmoji(result) {
         '405': 'modern cabbage splat',
 
         '410': 'fish feet',
+        '411': '🥧🪑',
 
         '420': 'recreational gammon',
 
