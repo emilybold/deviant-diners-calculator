@@ -74,7 +74,7 @@ function convertToEmoji(result) {
         '12': 'ant syrup',
         '13': 'spoilt casserole',
         '13.12': '🧈🥖🦎',
-        '14': '🥮',
+        '14': 'rectal crunchwrap',
         '15': 'spatchcock watermelon',
         '15.6': '🫟🍣',
         '16': 'olive stuffed eggs',
@@ -95,7 +95,7 @@ function convertToEmoji(result) {
         '28': '☕️🌰',
         '29': '🍈🥫👂',
 
-        '30': 'lychee dangle',
+        '30': 'lychee dangling',
         '31': 'jelly meat',
         '31.5': '🧅🦞🥔',
         '32': 'nugget quartet',
@@ -111,13 +111,13 @@ function convertToEmoji(result) {
         '41': 'flushed peppercorns',
         '42': '🥨🍄',
         '43': '🍕🥦🥥',
-        '44': '🍿🌶️',
+        '44': 'hegelian penne',
         '44.9': '🪨🍊',
         '45': 'breadrice',
         '45.1': '🫘🍠🫚',
         '46': 'erotica pancakes',
         '47': '🫚🫚🫚🫚',
-        '48': '🧁💣',
+        '48': 'nothing potato',
         '49': '🍌🍌🚬🍌',
 
         '50': '🍞🧶',
@@ -155,12 +155,12 @@ function convertToEmoji(result) {
         '75.2': '🍫🫜🫜',
         '76': 'hedgehog surprise',
         '76.45': '🐝🍫',
-        '77': '🥞🕷️🕷️',
+        '77': 'bean pathology',
         '78': '🍋‍🟩🏴‍☠️🍋‍🟩',
         '79': '🍌🌾🍌🍌',
 
         '80': '🥄🧊🧽',
-        '80.5': '🍤🍤🥫🥫',
+        '80.5': 'vinegar destruction',
         '81': '🍷🍈🍳',
         '82': 'egg sockets',
         '83': '🥭🌵',
@@ -285,7 +285,7 @@ function convertToEmoji(result) {
         '183': 'recoiled bean sprouts',
         '184': '🍠🍠🍠🍠🍠',
         '185': 'codine noodles',
-        '186': '🥔🥪🍏',
+        '186': 'corn recoil',
         '187': 'sniffer dogs',
         '188': 'unfortunate pears',
         '189': '🐿️🥧',
@@ -403,6 +403,8 @@ function convertToEmoji(result) {
         '313': 'gamey whisper',
         '314': 'drowsy kale corn',
         '315': 'stiff grapes',
+        '316': '🍿🌶️',
+        '317': '🧁💣',
 
         '320': 'shrimp erosion',
         '321': '🥄🎲🍤',
@@ -417,6 +419,8 @@ function convertToEmoji(result) {
         '360': 'rotated cactus chips',
 
         '370': 'incontinental breakfast',
+        '371': 'bao bun bonanza',
+        '372': 'slug with poppy seeds',
 
         '380': 'funeral platter',
 
@@ -431,17 +435,23 @@ function convertToEmoji(result) {
         '411': '🥧🪑',
 
         '420': 'recreational gammon',
+        '421': '🥮',
 
         '430': 'societal pastie',
+        '431': 'episodic muffins',
 
         '440': 'cheesemonger fingers',
+        '441': 'saurkraut unraveling',
 
         '450': 'microwaved USB dongle',
 
         '460': 'sweetened bacteria',
+        '461': '🥔🥪🍏',
+        '462': 'pepperoni frisking',
 
         '470': 'poached envelopes',
         '471': 'sublimated ricecakes',
+        '472': 'sensible egg discussion',
 
         '480': 'shredded crab lungs',
 
@@ -456,6 +466,7 @@ function convertToEmoji(result) {
         '511': 'arpeggiated calimari',
 
         '520': 'binaural lamb chops',
+        '521': '🍤🍤🥫🥫',
 
         '530': 'candied tumours',
 
@@ -465,9 +476,11 @@ function convertToEmoji(result) {
         '550': 'oven-baked carcinoma',
 
         '560': 'aphex frittata',
+      
         '569': 'grotty omelette',
 
         '570': 'almond solfeggietto',
+        '571': 'stilton proclivity',
 
         '582': 'Yummy Petrol Slurp',
         '583': '🍯🍚',
@@ -495,6 +508,7 @@ function convertToEmoji(result) {
         '670': 'abdominal clam chowder',
 
         '680': 'clotted styrofoam',
+        '681': 'ravioli landslide',
 
         '690': 'toothy paté',
 
@@ -551,7 +565,8 @@ function convertToEmoji(result) {
         '904': 'waste disposal hash',
 
         '910': 'red onion boba',
-        '920': 'almost turnips',
+        '911': 'almost turnips',
+        '912': '🥞🕷️🕷️',
 
         '920': 'a ham cabinet',
 
