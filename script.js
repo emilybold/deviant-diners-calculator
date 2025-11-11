@@ -411,6 +411,7 @@ function convertToEmoji(result) {
 
         '330': 'stone-baked dispair',
         '331': 'horse crab swirls',
+        '332': 'whipped clockfaces',
 
         '340': 'sharps bin broth',
 
@@ -436,6 +437,7 @@ function convertToEmoji(result) {
 
         '420': 'recreational gammon',
         '421': '🥮',
+        '422': 'metric bananas',
 
         '430': 'societal pastie',
         '431': 'episodic muffins',
@@ -444,10 +446,18 @@ function convertToEmoji(result) {
         '441': 'saurkraut unraveling',
 
         '450': 'microwaved USB dongle',
+        '451': 'strawberry panic',
+        '452': 'attack of the chives',
+        '453': 'salmon retreat',
+        '454': 'pretzel singularity',
 
         '460': 'sweetened bacteria',
         '461': '🥔🥪🍏',
         '462': 'pepperoni frisking',
+        '463': 'melon emancipation',
+        '464': 'drippy pond paste',
+        '465': 'haddock failiure',
+        '466': 'creamed fruit flies',
 
         '470': 'poached envelopes',
         '471': 'sublimated ricecakes',
