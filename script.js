@@ -244,7 +244,7 @@ function convertToEmoji(result) {
         '142': 'distilled fructose',
         '143': 'insulated beans',
         '144': 'spectral butter',
-        '144.2' '🫒🌶️🥒',
+        '144.2': '🫒🌶️🥒',
         '145': 'explosive bran apples',
         '146': 'refined ham skin',
         '147': 'creamed squid',
