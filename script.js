@@ -452,7 +452,7 @@ function convertToEmoji(result) {
         '298': 'adjectival pancetta',
         '298.3': '🥥🫛🍳🍳',
         '299': 'poutine rehearsal',
-        '299.4': '🍪🥛🧋,
+        '299.4': '🍪🥛🧋',
 
         '300': 'liberated artichokes',
         '301': 'hazlehut intentions',
