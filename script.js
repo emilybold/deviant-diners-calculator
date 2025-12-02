@@ -295,7 +295,7 @@ function convertToEmoji(result) {
         '182.9': '🧃🥜',
         '183': 'recoiled bean sprouts',
         '184': 'cashew extremity',
-        '185': 'codine noodles',
+        '185': 'codeine noodles',
         '186': 'corn recoil',
         '186.3': '🍠🍠🍠🍠🍠',
         '187': 'sniffer dogs',
